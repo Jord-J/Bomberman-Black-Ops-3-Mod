@@ -1,0 +1,12 @@
+>mode,mp
+>type,common
+
+#include "mp_mod.class"
+
+scriptparsetree,scripts/mp/gametypes/tdm.gsc
+scriptparsetree,scripts/mp/gametypes/tdm.csc
+
+xmodel,p7_food_fruit_watermelon
+xmodel,p7_ammo_resupply_02_box
+
+fx,fire/fx_bomberman

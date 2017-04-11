@@ -1,0 +1,30 @@
+version,2609615,593
+ignore_missing_shipped,core_pre_gfx
+ignore_missing_shipped,core_pre_gfx
+ignore_missing_shipped,core_patch
+ignore_missing_shipped,core_patch
+ignore_missing_shipped,core_gfx
+ignore_missing_shipped,core_gfx
+ignore_missing_shipped,core_post_gfx
+ignore_missing_shipped,core_post_gfx
+ignore_missing_shipped,core_ui
+ignore_missing_shipped,core_ui
+ignore_missing_shipped,core_common
+ignore_missing_shipped,core_common
+ignore_missing_shipped,mp_common
+ignore_missing_shipped,mp_common
+ignore_missing_shipped,mp_patch
+ignore_missing_shipped,mp_patch
+texturecombo,mp_mod
+assetlist,mp_mod
+	file,E:\Steam\steamapps\common\Call of Duty Black Ops III\share\raw\gamedata\playeranim\playeranimtypes.txt,1490885009,
+	file,E:\Steam\steamapps\common\Call of Duty Black Ops III\mods\bomberman\zone_source\loc\mp_mod.zone,1491585637,c2bfb05d,14abd7fc,2300342f,762ff613
+	file,E:\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_pre_gfx.csv,1490883007,4f38c8d2,54dbe0ad,a26fe6dd,7ce6fe27
+	file,E:\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_patch.csv,1490883007,0a7b10d4,ec037139,b775bcfd,cff55759
+	file,E:\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_gfx.csv,1490884466,4cd6243d,831296e2,f2d7c4d8,2e2c9159
+	file,E:\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_post_gfx.csv,1490884230,6421ae92,8670936d,28c8f4d3,3c4bb4af
+	file,E:\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_ui.csv,1490883045,ce3b1916,c358e78d,81b61779,aaf68da4
+	file,E:\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\core_common.csv,1490884887,1d30278c,b8778087,b65b8ce5,1d066b44
+	file,E:\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\mp_common.csv,1490885068,7018b3cc,d4fb387e,b466302c,9ca93a0c
+	file,E:\Steam\steamapps\common\Call of Duty Black Ops III\zone_source\english\assetlist\mp_patch.csv,1490885202,44577e5e,4d276489,bacbdd7c,2cfd716f
+errorcount,0
