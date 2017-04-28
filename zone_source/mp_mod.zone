@@ -3,10 +3,16 @@
 
 #include "mp_mod.class"
 
-scriptparsetree,scripts/mp/gametypes/tdm.gsc
-scriptparsetree,scripts/mp/gametypes/tdm.csc
+scriptparsetree,scripts/mp/gametypes/bomb.gsc
+scriptparsetree,scripts/mp/gametypes/bomb.csc
 
-xmodel,p7_food_fruit_watermelon
-xmodel,p7_ammo_resupply_02_box
+rawfile,gamedata/gamesettings/mp/gamesettings_bomb.cfg
+
+xmodel,bobomb
+xmodel,bobomb_handle
+xmodel,powerup
+
+material,bomb_full
+material,invulnerable_full
 
 fx,fire/fx_bomberman
